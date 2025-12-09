@@ -1,2 +1,2 @@
-# db_lab
-DB1 Praktikum( 1 und 2)
+# Datenbanken Praktikum Gr. 35
+Das Repo für das Praktikum (1 & 2).
