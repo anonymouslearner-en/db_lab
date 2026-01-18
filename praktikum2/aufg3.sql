@@ -31,7 +31,7 @@ ALTER TABLE Studenten
 ADD COLUMN Noten noten_eintrag[];
 
 
--- Teil 2: User Defined Table + View
+-- Teil 2: User Defined Function + View
 
 -- ============================================================
 -- User Defined Function: Durchschnitt
